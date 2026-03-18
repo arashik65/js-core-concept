@@ -22,3 +22,9 @@ console.log(arr[1]);
 // console.log(typeof undefined);---> output- undefined hole undefined hobe 
 console.log(typeof null); //---> output - null hole object hobe 
 
+function test (){
+    console.log('Hello');
+    return 5 ;
+}
+const result = test(); 
+console.log(result);
