@@ -14,4 +14,4 @@ console.log([5] =='5'); //true
 console.log({} == {});// false
 console.log([] == []);// false
 
-console.log([5].toString())
+console.log([5].toString()) //5 
