@@ -1,3 +1,4 @@
+//pass-by value
 function multiply (a,b){
     a=a-5;
     b=b-10;
