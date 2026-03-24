@@ -1,3 +1,4 @@
+//filter joto gula condition fill up hobe toto gula output dibe 
 const numbers =[1,2,3,4,5];
 const evenNumbers = numbers.filter(num=>num%2==0);
 console.log(evenNumbers); //[ 2, 4 ]
@@ -5,7 +6,6 @@ console.log(evenNumbers); //[ 2, 4 ]
 const friends =['Ashik','naved','khaled','sajed','nahid','nasib'];
 const Nfriends = friends.filter(frd=> frd[0]==='n');
 console.log(Nfriends); //[ 'naved', 'nahid', 'nasib' ]
-
 
 const students =[
     {name:'Ashik', age:22},
